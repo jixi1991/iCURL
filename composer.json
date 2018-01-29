@@ -1,0 +1,11 @@
+{
+    "name": "stylecc/i-curl",
+    "description": "PHP-CURL",
+    "authors": [
+        {
+            "name": "STYLECC",
+            "email": "jixi1991@163.com"
+        }
+    ],
+    "require": {}
+}
